@@ -1,0 +1,7 @@
+{
+  "name": "vueStyleScopedCheck-loader",
+  "title": "vueStyleScopedCheck-loader",
+  "description": "vueStyleScopedCheck-loader",
+  "version": "1.0.0",
+  "main": "loader.js"
+}
